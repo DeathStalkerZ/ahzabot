@@ -1,4 +1,4 @@
-# Wa-OpenAI
+# Ahza Bot
 
 ***WhatsApp OpenAI ChatGPT Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
