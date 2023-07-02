@@ -5,9 +5,6 @@
 ## BACA DULU
 Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>Untuk commandnya menggunakan ```/ai``` dan ```/img```
 
-## Get & Change OpenAI ApiKey
-- Silakan buat apikeynya terlebih dahulu [Disini](https://beta.openai.com/account/api-keys)
-- Ganti ApiKey OpenAI pada file [key.json](https://github.com/Sansekai/Wa-OpenAI/blob/844f41c362250bed10857443c013cbb454807e87/key.json#L2)
 
 ## Install
 **Install on RDP/Windows ✅**
@@ -26,7 +23,7 @@ Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat
 <br>Link ```node_modules```: [Klik Disini](https://drive.google.com/file/d/1rnoVkJin3J_zDkzxBDnzBBI1-OuKk10_/view?usp=drivesdk)
 ```bash
 $ pkg install git nodejs -y
-$ git clone https://github.com/Sansekai/Wa-OpenAI
+$ git clone (https://github.com/DeathStalkerZ/ahzabot)
 $ cd Wa-OpenAI
 ```
 Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder Wa-OpenAI.
@@ -36,11 +33,9 @@ Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip
 $ node index.js
 ```
 
-## Donate
-<a href="https://saweria.co/Sansekai" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Yusril" height="41" width="174"></a>
 
 ## License
-[MIT License](https://github.com/Sansekai/Wa-OpenAI/blob/main/LICENSE)
+[MIT License](https://github.com/DeathStalkerZ/ahzabot)
 
-Copyright (c) 2022 M Yusril
+Copyright (c) 2023 Ahza
 
