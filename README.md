@@ -12,7 +12,7 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git https://github.com/DeathStalkerZ/ahzabot
+$ git clone https://github.com/DeathStalkerZ/ahzabot
 $ cd ahzabot
 $ npm install
 $ node index.js
