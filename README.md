@@ -12,8 +12,8 @@ Terdapat 2 fitur yaitu ```ChatGPT(text)``` dan ```DALL-E(Text To Image).```<br>U
 Install [NodeJS](https://nodejs.org/en/download/)
  dan [Git Bash](https://git-scm.com/downloads) terlebih dahulu
 ```bash
-$ git clone https://github.com/Sansekai/Wa-OpenAI
-$ cd Wa-OpenAI
+$ git [clone npm install](https://github.com/DeathStalkerZ/ahzabot)
+$ cd ahzabot
 $ npm install
 $ node index.js
 ```
@@ -24,7 +24,7 @@ Silakan install manual ```node_modules``` terlebih dahulu, karena di termux saat
 ```bash
 $ pkg install git nodejs -y
 $ git clone (https://github.com/DeathStalkerZ/ahzabot)
-$ cd Wa-OpenAI
+$ cd ahzabot
 ```
 Sesudah menginstall file node_modules, silahkan extract file ```node_modules.zip``` dan taruh di folder Wa-OpenAI.
 
